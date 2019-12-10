@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../About-Me" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../BMICalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../DataBinding" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Insurance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Intent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../MyHelloWorld" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../android-kotlin-fundamentals-apps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../android-kotlin-fundamentals-apps/DiceRoller" vcs="Git" />
+  </component>
+</project>
